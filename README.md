@@ -6,7 +6,7 @@
 </div>
 
 
-<div align="center" styles="border: 30px solid transparent;"> <br>
+<div align="center" > <br>
   <img src="https://github.com/iobjn/recours/blob/main/tokennew.png" alt="Card header"/>
   
 </div>
